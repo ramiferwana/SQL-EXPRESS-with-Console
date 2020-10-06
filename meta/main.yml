@@ -1,6 +1,6 @@
 galaxy_info:
   author: Rami Ferwana
-  description: Infrastructure Design
+  description: This ansible role to install SQL Express and Management Studio Console on Windows OS.
   company: 
 
   # If the issue tracker for your role is not on github, uncomment the
