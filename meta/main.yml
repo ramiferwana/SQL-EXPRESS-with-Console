@@ -28,13 +28,7 @@ galaxy_info:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
   platforms:
-   - name: Windows 10 (64-bit) version 1607 (10.0.14393) or later
-           Windows 8.1 (64-bit)
-           Windows Server 2019 (64-bit)
-           Windows Server 2016 (64-bit)
-           Windows Server 2012 R2 (64-bit)
-           Windows Server 2012 (64-bit)
-           Windows Server 2008 R2 (64-bit)
+   - name: Windows
      versions:
      - all
   #   - 25
