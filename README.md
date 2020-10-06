@@ -1,4 +1,4 @@
-SQLExpress + SQL Management Studio Console
+SQL Express + SQL Management Studio Console
 =========
 
 This is ansible role to install SQL Express and Management Studio Console.
